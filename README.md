@@ -54,8 +54,6 @@ This is a simple single-page application built with ReactJS. It uses inline Boot
 - `src/` - Contains the source code for the React application.
   - `components/` - Contains React components.
 - `public/` - Contains static assets like `index.html`.
-- `js/` - Contains JavaScript files . 
-- `css/` - Contains CSS files .
 
 ## Inline Bootstrap
 The application uses inline Bootstrap for styling. Ensure that Bootstrap is properly included in your project.
